@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.gusterwoei.jhipsterapi",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.8.1",
+    "applicationType": "microservice",
+    "baseName": "jhipsterapi",
+    "packageName": "com.gusterwoei.jhipsterapi",
+    "packageFolder": "com/gusterwoei/jhipsterapi",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "MmRhY2M0YjNjNmQ5MTllMjQ5YzYyNjMwMTVkNzkzZjkyMWUwZDc5NGU1ZGI5ZmI2OTc4MDY1OGU1ZjBkYjZhZTU1ZjRmYTNlMzc1NGQzY2Q3MDk1MDc5MWZhOTdiZjBlMzhkYTJkNWNiODc0ZDk5OWVkMDM3ODMwYTIzNTFkZGQ=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "zh-cn",
+      "zh-tw",
+      "ja"
+    ],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
