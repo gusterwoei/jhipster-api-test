@@ -3,6 +3,8 @@ package com.gusterwoei.jhipsterapi;
 import com.gusterwoei.jhipsterapi.config.ApplicationProperties;
 import com.gusterwoei.jhipsterapi.config.DefaultProfileUtil;
 
+import com.gusterwoei.jhipsterapi.web.api.LeadsApi;
+import com.gusterwoei.jhipsterapi.web.api.LeadsApiController;
 import io.github.jhipster.config.JHipsterConstants;
 
 import org.apache.commons.lang3.StringUtils;

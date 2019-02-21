@@ -258,6 +258,9 @@ dependencies {
     testCompile "com.mattbertolini:liquibase-slf4j"
     testCompile "org.hamcrest:hamcrest-library"
     testCompile "com.h2database:h2"
+
+    //compile 'org.jboss.logging:jboss-logging:3.3.2.Final'
+    
     //jhipster-needle-gradle-dependency - JHipster will add additional dependencies here
 }
 
